@@ -1,4 +1,4 @@
-#' Celsius to Farenheit conversion
+#' Celsius to Farenheit conversion test
 #'
 #' @param temp_C numeric
 #'
