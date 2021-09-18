@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "sayantanpaul1994@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Temparature Conversion of different units
+Description: Temparature Conversion of different units.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
