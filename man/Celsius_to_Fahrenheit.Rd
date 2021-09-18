@@ -2,7 +2,7 @@
 % Please edit documentation in R/celsius_to_farenheit.R
 \name{Celsius_to_Fahrenheit}
 \alias{Celsius_to_Fahrenheit}
-\title{Celsius to Farenheit conversion}
+\title{Celsius to Farenheit conversion test}
 \usage{
 Celsius_to_Fahrenheit(temp_C)
 }
@@ -13,7 +13,7 @@ Celsius_to_Fahrenheit(temp_C)
 numeric
 }
 \description{
-Celsius to Farenheit conversion
+Celsius to Farenheit conversion test
 }
 \examples{
 Celsius_to_Fahrenheit(0) # results in 32F
