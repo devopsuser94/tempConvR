@@ -8,6 +8,9 @@
 #' @examples
 #' Kelvin_to_Celsius(273.15) # returns 0
 Kelvin_to_Celsius <- function(temp_K) {
+  if (is.numeric(temp_K)){
   temp_C <- temp_K - 273.15
   return(temp_C)
-}
+  }else{
+    print("Error: not numeric")
+   }}
